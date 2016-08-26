@@ -6,7 +6,8 @@ module.exports = {
   ],
   modules: {
     rule: require('ut-rule').postgres,
-    identity: require('../service/identity')
+    identity: require('../service/identity'),
+    ruleSeed: require('../db/schema')
   },
   validations: {
     rule: require('ut-rule/validations')
