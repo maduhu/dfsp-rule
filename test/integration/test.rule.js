@@ -8,19 +8,21 @@ test({
   clientConfig: require('../client/test'),
   steps: function (test, bus, run) {
     run(test, bus, [{
-      method: 'rule.decision.get',
+      method: 'rule.decision.fetch',
       params: {
-        sourceAmount: 100
+        amount: '1000',
+        channelCountryId: '1',
+        currency: 'TZS'
       },
       name: 'Get decision',
       result: (result, assert) => {
         assert.ok(result, 'return decision')
       }
     }, {
-      method: 'rule.decision.get',
+      method: 'rule.decision.fetch',
       params: {},
       name: 'Get decision without amount',
-      error: (result, assert) => {
+      result: (result, assert) => { // todo handle error
         assert.ok(result, 'return error')
       }
     }])
