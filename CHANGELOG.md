@@ -1,3 +1,13 @@
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.1.3...v0.1.4) (2016-09-27)
+
+
+### Bug Fixes
+
+* fix dependencies ([8ab475b](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/8ab475b))
+
+
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.1.2...v0.1.3) (2016-09-21)
 
