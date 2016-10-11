@@ -1,3 +1,19 @@
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.1.5...v0.2.0) (2016-10-11)
+
+
+### Bug Fixes
+
+* add .npmrc ([4e718ed](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/4e718ed))
+* fix circle ci build ([b01c61b](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/b01c61b))
+
+
+### Features
+
+* automate build ([987a326](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/987a326))
+
+
+
 <a name="0.1.5"></a>
 ## [0.1.5](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.1.4...v0.1.5) (2016-09-27)
 
