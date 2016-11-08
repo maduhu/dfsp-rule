@@ -4,7 +4,7 @@ module.exports = {
   createTT: false,
   retry: false,
   imports: [
-    'rule',
+    'db/rule',
     'ruleSeed'
   ]
 }
