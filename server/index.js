@@ -1,3 +1,4 @@
+var utRuleValidations = require('ut-rule/validations')
 module.exports = {
   ports: [
     require('../db'),
@@ -11,6 +12,10 @@ module.exports = {
     ruleSeed: require('../db/schema')
   },
   validations: {
-    rule: require('ut-rule/validations')
+    rule: Object.keys(utRuleValidations).reduce(function (all, key) {
+      all[key] = utRuleValidations[key]
+      all[key].auth = false
+      return all
+    }, {})
   }
 }
