@@ -18,13 +18,6 @@ test({
       result: (result, assert) => {
         assert.ok(result, 'return decision')
       }
-    }, {
-      method: 'rule.decision.fetch',
-      params: {},
-      name: 'Get decision without amount',
-      result: (result, assert) => { // todo handle error
-        assert.ok(result, 'return error')
-      }
     }])
   }
 })
