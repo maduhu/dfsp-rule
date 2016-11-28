@@ -1,3 +1,18 @@
+<a name="0.3.2"></a>
+## [0.3.2](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.3.1...v0.3.2) (2016-11-21)
+
+
+### Bug Fixes
+
+* issue [#283](https://github.com/LevelOneProject/dfsp-rule/issues/283) - DFSP License files are incorrect ([e7434a7](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/e7434a7))
+* linting ([9aba3b7](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/9aba3b7))
+* refactoring - split rule logic into separate ports ([71da6bf](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/71da6bf))
+* remove dummy file ([d11a16e](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/d11a16e))
+* set auth=false explicitly for all utRule validations ([5bb048d](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/5bb048d))
+* update dependencies ([8d2942a](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/8d2942a))
+
+
+
 <a name="0.3.1"></a>
 ## [0.3.1](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.3.0...v0.3.1) (2016-10-14)
 
