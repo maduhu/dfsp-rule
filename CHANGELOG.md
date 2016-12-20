@@ -1,3 +1,13 @@
+<a name="0.3.5"></a>
+## [0.3.5](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.3.4...v0.3.5) (2016-12-20)
+
+
+### Bug Fixes
+
+* add usd fee sample ([9bc9f82](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/9bc9f82))
+
+
+
 <a name="0.3.4"></a>
 ## [0.3.4](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.3.3...v0.3.4) (2016-12-16)
 
