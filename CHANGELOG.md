@@ -1,3 +1,13 @@
+<a name="0.4.0"></a>
+# [0.4.0](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.3.5...v0.4.0) (2017-01-05)
+
+
+### Features
+
+* add rule.fee.fetch db function ([eee74b0](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/eee74b0))
+
+
+
 <a name="0.3.5"></a>
 ## [0.3.5](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.3.4...v0.3.5) (2016-12-20)
 
