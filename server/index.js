@@ -1,4 +1,5 @@
 var utRuleValidations = require('ut-rule/validations')
+var joi = require('joi')
 module.exports = {
   ports: [
     require('../db'),
@@ -16,6 +17,14 @@ module.exports = {
       all[key] = utRuleValidations[key]
       all[key].auth = false
       return all
-    }, {})
+    }, {
+      'fee.fetch': {
+        description: '',
+        notes: '',
+        params: joi.any(),
+        result: joi.any(),
+        auth: false
+      }
+    })
   }
 }
