@@ -1,3 +1,13 @@
+<a name="0.4.1"></a>
+## [0.4.1](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.4.0...v0.4.1) (2017-01-30)
+
+
+### Bug Fixes
+
+* circleci settings and npm commands ([d34e0e4](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/d34e0e4))
+
+
+
 <a name="0.4.0"></a>
 # [0.4.0](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.3.5...v0.4.0) (2017-01-05)
 
