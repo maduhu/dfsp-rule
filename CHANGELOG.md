@@ -1,3 +1,13 @@
+<a name="0.4.2"></a>
+## [0.4.2](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.4.1...v0.4.2) (2017-02-02)
+
+
+### Bug Fixes
+
+* fix dependency to ut-rule and ignore dev folder ([cf9e92f](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/cf9e92f))
+
+
+
 <a name="0.4.1"></a>
 ## [0.4.1](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.4.0...v0.4.1) (2017-01-30)
 
