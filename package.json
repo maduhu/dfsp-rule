@@ -40,7 +40,7 @@
     "ut-port-postgres": "^5.7.5",
     "ut-port-script": "^5.4.7",
     "ut-port-performance": "^5.4.7",
-    "ut-rule": "^5.7.0",
+    "ut-rule": "~5.8.1",
     "ut-run": "^7.2.1",
     "pm2": "2.0.18"
   },
