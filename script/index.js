@@ -2,7 +2,7 @@ var dispatchToDB = /^(rule)\./
 module.exports = {
   id: 'script',
   createPort: require('ut-port-script'),
-  imports: ['identity', 'rule'],
+  imports: ['rule'],
   logLevel: 'trace',
   exec: function (msg, $meta) {
     if (dispatchToDB.test($meta.method)) {
