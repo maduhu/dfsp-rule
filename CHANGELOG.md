@@ -1,3 +1,15 @@
+<a name="0.4.3"></a>
+## [0.4.3](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.4.2...v0.4.3) (2017-04-05)
+
+
+### Bug Fixes
+
+* add ut-port-http dependency ([d0242ed](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/d0242ed))
+* remove identity mock ([49670b0](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/49670b0))
+* update ut-port-httpserver ([9f3d575](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/9f3d575))
+
+
+
 <a name="0.4.2"></a>
 ## [0.4.2](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.4.1...v0.4.2) (2017-02-02)
 
