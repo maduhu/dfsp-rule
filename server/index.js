@@ -9,7 +9,6 @@ module.exports = {
   modules: {
     rule: require('ut-rule/api/script'),
     'db/rule': require('ut-rule/api/postgre'),
-    identity: require('../service/identity'),
     ruleSeed: require('../db/schema')
   },
   validations: {
