@@ -82,7 +82,13 @@ ON CONFLICT ("limitId") DO UPDATE SET
     "conditionId" = EXCLUDED."conditionId",
     "currency" = EXCLUDED."currency",
     "minAmount" = EXCLUDED."minAmount",
-    "maxAmount" = EXCLUDED."maxAmount";
+    "maxAmount" = EXCLUDED."maxAmount",
+    "maxAmountDaily" = EXCLUDED."maxAmountDaily",
+    "maxCountDaily" = EXCLUDED."maxCountDaily",
+    "maxAmountWeekly" = EXCLUDED."maxAmountWeekly",
+    "maxCountWeekly" = EXCLUDED."maxCountWeekly",
+    "maxAmountMonthly" = EXCLUDED."maxAmountMonthly",
+    "maxCountMonthly" = EXCLUDED."maxCountMonthly";
 
 
 INSERT INTO
