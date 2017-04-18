@@ -66,18 +66,18 @@ INSERT INTO
         "maxCountMonthly"
     )
 VALUES
-    (1, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 1), 'TZS', 1000, 100000, 100000, 10000, 400000, 40000, 1000000, 100000),
-    (2, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 1), 'USD', 10, 1000, 1000, 100, 4000, 400, 10000, 1000),
-    (3, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 2), 'TZS', 1000, 100000, 100000, 10000, 400000, 40000, 1000000, 100000),
-    (4, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 2), 'USD', 10, 1000, 1000, 100, 4000, 400, 10000, 1000),
-    (5, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 3), 'TZS', 1000, 100000, 100000, 10000, 400000, 40000, 1000000, 100000),
-    (6, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 3), 'USD', 10, 1000, 1000, 100, 4000, 400, 10000, 1000),
-    (7, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 4), 'TZS', 1000, 100000, 100000, 10000, 400000, 40000, 1000000, 100000),
-    (8, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 4), 'USD', 10, 1000, 1000, 100, 4000, 400, 10000, 1000),
-    (9, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 5), 'TZS', 1000, 100000, 100000, 10000, 400000, 40000, 1000000, 100000),
-    (10, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 5), 'USD', 10, 1000, 1000, 100, 4000, 400, 10000, 1000),
-    (11, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 6), 'TZS', 1000, 100000, 100000, 10000, 400000, 40000, 1000000, 100000),
-    (12, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 6), 'USD', 10, 1000, 1000, 100, 4000, 400, 10000, 1000)
+    (1, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 1), 'TZS', 1000, 100000, 100000, 10, 400000, 40, 1000000, 100),
+    (2, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 1), 'USD', 10, 1000, 1000, 10, 4000, 40, 10000, 100),
+    (3, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 2), 'TZS', 1000, 100000, 100000, 10, 400000, 40, 1000000, 100),
+    (4, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 2), 'USD', 10, 1000, 1000, 10, 4000, 40, 10000, 100),
+    (5, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 3), 'TZS', 1000, 100000, 100000, 10, 400000, 40, 1000000, 100),
+    (6, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 3), 'USD', 10, 1000, 1000, 10, 4000, 40, 10000, 100),
+    (7, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 4), 'TZS', 1000, 100000, 100000, 10, 400000, 40, 1000000, 100),
+    (8, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 4), 'USD', 10, 1000, 1000, 10, 4000, 40, 10000, 100),
+    (9, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 5), 'TZS', 1000, 100000, 100000, 10, 400000, 40, 1000000, 100),
+    (10, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 5), 'USD', 10, 1000, 1000, 10, 4000, 40, 10000, 100),
+    (11, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 6), 'TZS', 1000, 100000, 100000, 10, 400000, 40, 1000000, 100),
+    (12, (SELECT "conditionId" FROM rule."condition" WHERE "priority" = 6), 'USD', 10, 1000, 1000, 10, 4000, 40, 10000, 100)
 ON CONFLICT ("limitId") DO UPDATE SET
     "conditionId" = EXCLUDED."conditionId",
     "currency" = EXCLUDED."currency",
