@@ -1,3 +1,19 @@
+<a name="0.5.0"></a>
+# [0.5.0](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.4.3...v0.5.0) (2017-04-18)
+
+
+### Bug Fixes
+
+* update all field on conflict ([aa811a8](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/aa811a8))
+* update seeder with more adequate values ([ee7c106](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/ee7c106))
+
+
+### Features
+
+* seed default fees, limits and commissions ([c897809](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/c897809))
+
+
+
 <a name="0.4.3"></a>
 ## [0.4.3](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.4.2...v0.4.3) (2017-04-05)
 
