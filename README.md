@@ -22,7 +22,7 @@
     ```
 
     Note:
-    To set environment variable use ```setx <VAR_NAME> <VAR_VALUE>``` on Windows and ```export <VAR_NAME>=<VAR_VALUE> on Unix```
+    To set environment variable use ```setx <VAR_NAME> <VAR_VALUE>``` on Windows and ```export <VAR_NAME>=<VAR_VALUE>``` on Unix
 
 1. Run the module:
 
