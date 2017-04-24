@@ -28,6 +28,6 @@
 
     execute ```npm start``` in the root directory of the module
 
-    The service should be available on ```http://localhost:8016/documentation```
+    The service should be available on http://localhost:8016/documentation
 
 
