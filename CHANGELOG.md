@@ -1,3 +1,17 @@
+<a name="0.5.3"></a>
+## [0.5.3](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.2...v0.5.3) (2017-05-02)
+
+
+### Bug Fixes
+
+* add README.md ([a744dce](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/a744dce))
+* link ([2359731](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/2359731))
+* readme formatting ([20c9aba](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/20c9aba))
+* remove unused method ([09c02b0](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/09c02b0))
+* update readme ([24e300c](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/24e300c))
+
+
+
 <a name="0.5.2"></a>
 ## [0.5.2](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.1...v0.5.2) (2017-04-25)
 
