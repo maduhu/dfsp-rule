@@ -1,3 +1,14 @@
+<a name="0.5.4"></a>
+## [0.5.4](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.3...v0.5.4) (2017-05-10)
+
+
+### Bug Fixes
+
+* remove colors from stdout by default ([edf1bad](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/edf1bad))
+* remove unused variable ([c256d87](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/c256d87))
+
+
+
 <a name="0.5.3"></a>
 ## [0.5.3](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.2...v0.5.3) (2017-05-02)
 
