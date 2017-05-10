@@ -1,3 +1,13 @@
+<a name="0.5.5"></a>
+## [0.5.5](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.4...v0.5.5) (2017-05-10)
+
+
+### Bug Fixes
+
+* change logmode to long ([7486eaa](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/7486eaa))
+
+
+
 <a name="0.5.4"></a>
 ## [0.5.4](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.3...v0.5.4) (2017-05-10)
 
