@@ -1,5 +1,4 @@
 var utRuleValidations = require('ut-rule/validations')
-var joi = require('joi')
 module.exports = {
   ports: [
     require('../db'),
