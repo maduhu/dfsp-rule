@@ -1,3 +1,13 @@
+<a name="0.5.6"></a>
+## [0.5.6](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.5...v0.5.6) (2017-05-15)
+
+
+### Bug Fixes
+
+* elk ([67c2c99](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/67c2c99))
+
+
+
 <a name="0.5.5"></a>
 ## [0.5.5](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.4...v0.5.5) (2017-05-10)
 
