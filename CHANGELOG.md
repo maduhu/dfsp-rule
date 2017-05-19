@@ -1,3 +1,13 @@
+<a name="0.5.7"></a>
+## [0.5.7](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.6...v0.5.7) (2017-05-19)
+
+
+### Bug Fixes
+
+* circle.yml ([14af20a](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/14af20a))
+
+
+
 <a name="0.5.6"></a>
 ## [0.5.6](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.5...v0.5.6) (2017-05-15)
 
