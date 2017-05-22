@@ -1,3 +1,13 @@
+<a name="0.5.8"></a>
+## [0.5.8](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.7...v0.5.8) (2017-05-22)
+
+
+### Bug Fixes
+
+* log configuration ([1168ac6](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/1168ac6))
+
+
+
 <a name="0.5.7"></a>
 ## [0.5.7](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.6...v0.5.7) (2017-05-19)
 
