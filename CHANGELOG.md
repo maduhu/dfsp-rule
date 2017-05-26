@@ -1,3 +1,16 @@
+<a name="0.5.9"></a>
+## [0.5.9](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.8...v0.5.9) (2017-05-26)
+
+
+### Bug Fixes
+
+* add shrinkwrap to pipeline ([5033239](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/5033239))
+* update dependencies ([96a3381](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/96a3381))
+* update pipeline ([c7b1799](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/c7b1799))
+* uptade ut-tools ([ac147bc](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/ac147bc))
+
+
+
 <a name="0.5.8"></a>
 ## [0.5.8](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.7...v0.5.8) (2017-05-22)
 
