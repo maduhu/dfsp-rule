@@ -1,3 +1,13 @@
+<a name="0.5.10"></a>
+## [0.5.10](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.9...v0.5.10) (2017-05-29)
+
+
+### Bug Fixes
+
+* update dependencies ([3f2563e](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/3f2563e))
+
+
+
 <a name="0.5.9"></a>
 ## [0.5.9](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.8...v0.5.9) (2017-05-26)
 
