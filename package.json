@@ -41,7 +41,7 @@
     "ut-port-postgres": "^5.7.7",
     "ut-port-script": "^5.5.1",
     "ut-port-performance": "^5.4.7",
-    "ut-rule": "~5.8.11",
+    "ut-rule": "~5.8.12",
     "ut-run": "^8.1.0",
     "pm2": "2.0.18",
     "ut-front-react": "~8.19.14",
@@ -52,7 +52,9 @@
     "blue-tape": "1.0.0",
     "tap-xunit": "1.4.0",
     "ut-port-jsonrpc": "^5.5.9",
-    "ut-tools": "^5.17.16",
+    "ut-tools": "^5.17.19"
+  },
+  "peerDependencies": {
     "babel-loader": "6.2.10",
     "babel-preset-es2015-without-strict": "0.0.4",
     "babel-preset-es2015": "6.18.0",
