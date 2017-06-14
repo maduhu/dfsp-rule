@@ -16,10 +16,12 @@ module.exports = {
             currency: msg.currency
           }
         } else {
-          Object.assign(response.fee, {
-            amount: 0,
-            currency: msg.currency
-          })
+          if (!response.fee.amount) {
+            response.fee.amount = 0
+          }
+          if (!response.fee.currency) {
+            response.fee.currency = 'USD'
+          }
         }
         if (!response.commission) {
           response.commission = {
@@ -27,10 +29,12 @@ module.exports = {
             currency: msg.currency
           }
         } else {
-          Object.assign(response.commission, {
-            amount: 0,
-            currency: msg.currency
-          })
+          if (!response.commission.amount) {
+            response.commission.amount = 0
+          }
+          if (!response.commission.currency) {
+            response.commission.currency = 'USD'
+          }
         }
         return response
       })
