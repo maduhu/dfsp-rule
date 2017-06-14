@@ -1,3 +1,13 @@
+<a name="0.5.12"></a>
+## [0.5.12](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.11...v0.5.12) (2017-06-14)
+
+
+### Bug Fixes
+
+* unify rule.decision.fetch response ([867dc63](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/867dc63))
+
+
+
 <a name="0.5.11"></a>
 ## [0.5.11](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.10...v0.5.11) (2017-06-12)
 
