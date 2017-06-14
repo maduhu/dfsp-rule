@@ -1,6 +1,6 @@
 {
   "name": "@leveloneproject/dfsp-rule",
-  "version": "0.5.12",
+  "version": "0.5.13",
   "description": "DFSP Rule service",
   "main": "index.js",
   "scripts": {

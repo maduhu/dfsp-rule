@@ -1,3 +1,13 @@
+<a name="0.5.13"></a>
+## [0.5.13](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.12...v0.5.13) (2017-06-14)
+
+
+### Bug Fixes
+
+* set correct values for fees and commissions in case they lack in the database ([d60d38c](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/d60d38c))
+
+
+
 <a name="0.5.12"></a>
 ## [0.5.12](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.11...v0.5.12) (2017-06-14)
 
