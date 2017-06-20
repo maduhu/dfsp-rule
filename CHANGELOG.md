@@ -1,3 +1,8 @@
+<a name="0.5.15"></a>
+## [0.5.15](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.14...v0.5.15) (2017-06-20)
+
+
+
 <a name="0.5.14"></a>
 ## [0.5.14](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.13...v0.5.14) (2017-06-20)
 
