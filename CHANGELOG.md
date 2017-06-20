@@ -1,3 +1,13 @@
+<a name="0.5.14"></a>
+## [0.5.14](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.13...v0.5.14) (2017-06-20)
+
+
+### Bug Fixes
+
+* update ut-bus and ut-port-httpserver ([a00fb0d](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/a00fb0d))
+
+
+
 <a name="0.5.13"></a>
 ## [0.5.13](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.12...v0.5.13) (2017-06-14)
 
