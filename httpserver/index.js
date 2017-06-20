@@ -5,6 +5,11 @@ module.exports = {
   logLevel: 'trace',
   api: ['rule'],
   port: 8016,
+  allowXFF: true,
+  disableXsrf: {
+    http: true,
+    ws: true
+  },
   bundle: 'rule',
   dist: path.resolve(__dirname, '../dist'),
   routes: {
