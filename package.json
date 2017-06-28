@@ -41,7 +41,7 @@
     "ut-port-postgres": "^5.7.7",
     "ut-port-script": "^5.5.1",
     "ut-port-performance": "^5.4.7",
-    "ut-rule": "~5.8.12",
+    "ut-rule": "~5.8.18",
     "ut-run": "^8.1.0",
     "pm2": "2.0.18",
     "ut-front-react": "~8.19.14",
