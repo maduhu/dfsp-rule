@@ -1,3 +1,14 @@
+<a name="0.5.17"></a>
+## [0.5.17](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.16...v0.5.17) (2017-06-28)
+
+
+### Bug Fixes
+
+* change transferId to paymentId ([f88c97d](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/f88c97d))
+* update ut-rule dependency ([8f221f1](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/8f221f1))
+
+
+
 <a name="0.5.16"></a>
 ## [0.5.16](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.15...v0.5.16) (2017-06-28)
 
