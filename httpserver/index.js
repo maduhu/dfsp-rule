@@ -46,8 +46,8 @@ module.exports = {
       { rpc: 'rule.limit.edit', path: '/rule/limits/{limitId}', method: 'put' },
       { rpc: 'rule.limit.remove', path: '/rule/limits/{limitId}', method: 'delete' },
       { rpc: 'rule.decision.fetch', path: '/rule/decisions', method: 'get' },
-      { rpc: 'rule.transfer.execute', path: '/rule/transfers/{transferId}', method: 'put' },
-      { rpc: 'rule.transfer.reverse', path: '/rule/transfers/{transferId}/reverse', method: 'post' },
+      { rpc: 'rule.transfer.execute', path: '/rule/transfers/{paymentId}', method: 'put' },
+      { rpc: 'rule.transfer.reverse', path: '/rule/transfers/{paymentId}/reverse', method: 'post' },
       { rpc: 'rule.transferType.fetch', path: '/rule/transferTypes', method: 'get' }
     ].map((route) => {
       return {
