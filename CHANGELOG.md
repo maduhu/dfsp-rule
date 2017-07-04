@@ -1,3 +1,13 @@
+<a name="0.5.18"></a>
+## [0.5.18](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.17...v0.5.18) (2017-07-04)
+
+
+### Bug Fixes
+
+* add configuration for integration tests ([2b1b1c4](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/2b1b1c4))
+
+
+
 <a name="0.5.17"></a>
 ## [0.5.17](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.16...v0.5.17) (2017-06-28)
 
