@@ -1,3 +1,13 @@
+<a name="0.5.19"></a>
+## [0.5.19](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.18...v0.5.19) (2017-07-04)
+
+
+### Bug Fixes
+
+* add test validations ([140cafc](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/140cafc))
+
+
+
 <a name="0.5.18"></a>
 ## [0.5.18](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.17...v0.5.18) (2017-07-04)
 
