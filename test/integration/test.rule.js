@@ -1,13 +1,15 @@
 var test = require('ut-run/test')
 // var joi = require('joi')
-
+var config = require('./../lib/appConfig')
 test({
   type: 'integration',
   name: 'Rule service',
-  client: require('../client'),
-  clientConfig: require('../client/test'),
+  server: config.server,
+  serverConfig: config.serverConfig,
+  client: config.client,
+  clientConfig: config.clientConfig,
   steps: function (test, bus, run) {
-    run(test, bus, [{
+    return run(test, bus, [{
       method: 'rule.decision.fetch',
       params: {
         amount: '1000',
@@ -20,4 +22,4 @@ test({
       }
     }])
   }
-})
+}, module.parent)
