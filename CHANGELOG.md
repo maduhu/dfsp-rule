@@ -1,3 +1,13 @@
+<a name="0.5.20"></a>
+## [0.5.20](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.19...v0.5.20) (2017-08-04)
+
+
+### Bug Fixes
+
+* change currency from usd to tzs ([a6286d0](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/a6286d0))
+
+
+
 <a name="0.5.19"></a>
 ## [0.5.19](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.18...v0.5.19) (2017-07-04)
 
