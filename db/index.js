@@ -20,7 +20,7 @@ module.exports = {
             response.fee.amount = 0
           }
           if (!response.fee.currency) {
-            response.fee.currency = 'USD'
+            response.fee.currency = 'TZS'
           }
         }
         if (!response.commission) {
@@ -33,7 +33,7 @@ module.exports = {
             response.commission.amount = 0
           }
           if (!response.commission.currency) {
-            response.commission.currency = 'USD'
+            response.commission.currency = 'TZS'
           }
         }
         return response
