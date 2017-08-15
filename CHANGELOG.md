@@ -1,3 +1,13 @@
+<a name="0.5.21"></a>
+## [0.5.21](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.20...v0.5.21) (2017-08-15)
+
+
+### Bug Fixes
+
+* remove index_test file ([2b5907b](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/2b5907b))
+
+
+
 <a name="0.5.20"></a>
 ## [0.5.20](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.19...v0.5.20) (2017-08-04)
 
