@@ -14,7 +14,7 @@ test({
     return run(test, bus, [{
       method: 'rule.decision.fetch',
       params: {
-        amount: '1000',
+        amount: '10000',
         channelCountryId: '1',
         currency: 'TZS'
       },
@@ -39,6 +39,28 @@ test({
             maxCountWeekly: joi.number().required(),
             minAmount: joi.number().required()
           }).required()
+        })).error, null, 'Return decision')
+      }
+    },
+    {
+      method: 'rule.decision.fetch',
+      params: {
+        amount: '1000',
+        channelCountryId: '1',
+        currency: 'BGN'
+      },
+      name: 'Get decision',
+      result: (result, assert) => {
+        assert.equals(joi.validate(result, joi.object().keys({
+          commission: joi.object().keys({
+            amount: joi.number().required(),
+            currency: joi.string().required()
+          }).required(),
+          fee: joi.object().keys({
+            amount: joi.number().required(),
+            currency: joi.string().required()
+          }).required(),
+          limit: joi.object().allow(null)
         })).error, null, 'Return decision')
       }
     },
