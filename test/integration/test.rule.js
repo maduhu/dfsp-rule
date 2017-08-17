@@ -1,6 +1,8 @@
 var test = require('ut-run/test')
 var joi = require('joi')
 var config = require('./../lib/appConfig')
+const request = require('supertest')('http://localhost:8016')
+
 test({
   type: 'integration',
   name: 'Rule service',
@@ -39,6 +41,19 @@ test({
           }).required()
         })).error, null, 'Return decision')
       }
-    }])
+    },
+    {
+      name: 'Pass incorrect password to the inspector',
+      params: (context) => {
+        return request
+          .get('/rule/decisions')
+          .set('Content-Type', 'text/plain')
+          .send('{amount: "1000",channelCountryId: "1",currency: "TZS"}')
+      },
+      result: (result, assert) => {
+        assert.equal(result.status, 200, 'Check that request succeed')
+      }
+    }
+  ])
   }
 }, module.parent)

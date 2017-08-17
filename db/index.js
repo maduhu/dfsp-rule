@@ -7,7 +7,7 @@ module.exports = {
     'db/rule',
     'ruleSeed'
   ],
-  'rule.decision.fetch': function (msg, $meta) {
+  'rule.decision.fetch': function (msg) {
     return this.super['rule.decision.fetch'](msg)
       .then((response) => {
         if (!response.fee) {
