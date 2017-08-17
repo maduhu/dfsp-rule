@@ -1,3 +1,13 @@
+<a name="0.5.23"></a>
+## [0.5.23](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.22...v0.5.23) (2017-08-17)
+
+
+### Bug Fixes
+
+* add negative test for invalid currency ([db2c809](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/commit/db2c809))
+
+
+
 <a name="0.5.22"></a>
 ## [0.5.22](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.21...v0.5.22) (2017-08-17)
 
